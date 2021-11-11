@@ -4,6 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
+- [Fundamentals of SQL Window function](https://enzircle.com/fundamentals-of-sql-window-function)
+- [All you need to know about Go functions](https://enzircle.com/all-you-need-to-know-about-go-functions)
+- [Peek into Plotnine](https://enzircle.com/peek-into-plotnine)
+- [Five ways to remember more](https://enzircle.com/five-ways-to-remember-more)
+- [How I take notes](https://enzircle.com/how-i-take-notes)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
