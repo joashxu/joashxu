@@ -4,11 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
+- [Note setup for 2022](https://enzircle.com/note-setup-for-2022)
 - [Handling temporal data in SQL](https://enzircle.com/handling-temporal-data-in-sql)
 - [List of window functions](https://enzircle.com/list-of-window-functions)
 - [Fundamentals of SQL Window function](https://enzircle.com/fundamentals-of-sql-window-function)
 - [All you need to know about Go functions](https://enzircle.com/all-you-need-to-know-about-go-functions)
-- [Peek into Plotnine](https://enzircle.com/peek-into-plotnine)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
