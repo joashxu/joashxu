@@ -4,11 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
+- [Go simple rate limiter](https://enzircle.com/go-simple-rate-limiter)
+- [Go concurrency overview](https://enzircle.com/go-concurrency-overview)
 - [Notebook setup for 2022](https://enzircle.com/notebook-setup-for-2022)
 - [Handling temporal data in SQL](https://enzircle.com/handling-temporal-data-in-sql)
 - [List of window functions](https://enzircle.com/list-of-window-functions)
-- [Fundamentals of SQL Window function](https://enzircle.com/fundamentals-of-sql-window-function)
-- [All you need to know about Go functions](https://enzircle.com/all-you-need-to-know-about-go-functions)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
