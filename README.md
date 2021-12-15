@@ -4,11 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
+- [Go race conditions problem](https://enzircle.com/go-race-conditions-problem)
 - [Go producer-consumer problem](https://enzircle.com/go-producer-consumer-problem)
 - [Go simple rate limiter](https://enzircle.com/go-simple-rate-limiter)
 - [Go concurrency overview](https://enzircle.com/go-concurrency-overview)
 - [Notebook setup for 2022](https://enzircle.com/notebook-setup-for-2022)
-- [Handling temporal data in SQL](https://enzircle.com/handling-temporal-data-in-sql)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
