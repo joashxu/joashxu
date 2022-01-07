@@ -4,11 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
+- [Go limit service time per user](https://enzircle.com/go-limit-service-time-per-user)
 - [Go limit service time per request](https://enzircle.com/go-limit-service-time-per-request)
 - [Five reading habits that will take you to the next level](https://enzircle.com/five-reading-habits-that-will-take-you-to-the-next-level)
 - [Go race conditions problem](https://enzircle.com/go-race-conditions-problem)
 - [Go producer-consumer problem](https://enzircle.com/go-producer-consumer-problem)
-- [Go simple rate limiter](https://enzircle.com/go-simple-rate-limiter)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
