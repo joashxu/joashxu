@@ -4,11 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
+- [Go Graceful SIGINT killing](https://enzircle.com/go-graceful-sigint-killing)
 - [Three reflections on note-taking](https://enzircle.com/three-reflections-on-note-taking)
 - [Go limit service time per user](https://enzircle.com/go-limit-service-time-per-user)
 - [Go limit service time per request](https://enzircle.com/go-limit-service-time-per-request)
 - [Five reading habits that will take you to the next level](https://enzircle.com/five-reading-habits-that-will-take-you-to-the-next-level)
-- [Go race conditions problem](https://enzircle.com/go-race-conditions-problem)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
