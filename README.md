@@ -4,11 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
+- [Three systems I use to organize my life](https://enzircle.com/three-systems-i-use-to-organize-my-life)
 - [Go Graceful SIGINT killing](https://enzircle.com/go-graceful-sigint-killing)
 - [Three reflections on note-taking](https://enzircle.com/three-reflections-on-note-taking)
 - [Go limit service time per user](https://enzircle.com/go-limit-service-time-per-user)
 - [Go limit service time per request](https://enzircle.com/go-limit-service-time-per-request)
-- [Five reading habits that will take you to the next level](https://enzircle.com/five-reading-habits-that-will-take-you-to-the-next-level)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
