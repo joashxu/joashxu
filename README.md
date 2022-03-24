@@ -4,11 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
+- [Note writing methods I use](https://enzircle.com/note-writing-methods-i-use)
 - [Responsive table with Django and htmx](https://enzircle.com/responsive-table-with-django-and-htmx)
 - [Cognitive Structures: Key to effective learning](https://enzircle.com/cognitive-structures-key-to-effective-learning)
 - [Three systems I use to organize my life](https://enzircle.com/three-systems-i-use-to-organize-my-life)
 - [Go Graceful SIGINT killing](https://enzircle.com/go-graceful-sigint-killing)
-- [Three reflections on note-taking](https://enzircle.com/three-reflections-on-note-taking)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
