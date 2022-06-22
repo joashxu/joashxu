@@ -4,11 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
+- [The Psychology of Money](https://enzircle.com/the-psychology-of-money)
 - [How to Decide](https://enzircle.com/how-to-decide-1)
 - [Coding Techniques for Solving Algorithmic Problems](https://enzircle.com/coding-techniques-for-solving-algorithmic-problems)
 - [Effective Memory Techniques for Learning](https://enzircle.com/effective-memory-techniques-for-learning)
 - [Introduction to Personal Content Curation](https://enzircle.com/introduction-to-personal-content-curation)
-- [Note writing methods I use](https://enzircle.com/note-writing-methods-i-use)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
