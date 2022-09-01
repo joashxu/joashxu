@@ -4,11 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
+- [Essential Skills for Developers](https://enzircle.com/essential-skills-for-developers)
 - [The Importance of Encoding](https://enzircle.com/the-importance-of-encoding)
 - [Column Filter Table with htmx, Alpine-js, and Django](https://enzircle.com/column-filter-table-with-htmx-alpine-js-and-django)
 - [The Psychology of Money](https://enzircle.com/the-psychology-of-money)
 - [How to Decide](https://enzircle.com/how-to-decide-1)
-- [Coding Techniques for Solving Algorithmic Problems](https://enzircle.com/coding-techniques-for-solving-algorithmic-problems)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
