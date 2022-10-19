@@ -4,11 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
+- [Week #41 - 2022](https://enzircle.com/week-41-2022)
 - [Week #40 - 2022](https://enzircle.com/week-40-2022)
 - [Four Thousand Weeks](https://enzircle.com/four-thousand-weeks)
 - [Essential Skills for Developers](https://enzircle.com/essential-skills-for-developers)
 - [The Importance of Encoding](https://enzircle.com/the-importance-of-encoding)
-- [Column Filter Table with htmx, Alpine-js, and Django](https://enzircle.com/column-filter-table-with-htmx-alpine-js-and-django)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
