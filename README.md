@@ -4,11 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
+- [Week #43 - 2022](https://enzircle.com/week-43-2022)
 - [Week #42 - 2022](https://enzircle.com/week-42-2022)
 - [Week #41 - 2022](https://enzircle.com/week-41-2022)
 - [Week #40 - 2022](https://enzircle.com/week-40-2022)
 - [Four Thousand Weeks](https://enzircle.com/four-thousand-weeks)
-- [Essential Skills for Developers](https://enzircle.com/essential-skills-for-developers)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
