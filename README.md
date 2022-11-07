@@ -4,11 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
+- [Week #44 - 2022](https://enzircle.com/week-44-2022)
 - [Socket Programming in Python](https://enzircle.com/socket-programming-in-python)
 - [Introduction to Socket Programming](https://enzircle.com/introduction-to-socket-programming)
 - [Week #43 - 2022](https://enzircle.com/week-43-2022)
 - [Week #42 - 2022](https://enzircle.com/week-42-2022)
-- [Week #41 - 2022](https://enzircle.com/week-41-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
