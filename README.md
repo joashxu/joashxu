@@ -4,11 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
+- [Week #02 - 2023](https://enzircle.com/week-02-2023)
 - [Week #01 - 2023](https://enzircle.com/week-01-2023)
 - [Week #47 - 2022](https://enzircle.com/week-47-2022)
 - [Week #46 - 2022](https://enzircle.com/week-46-2022)
 - [Animate Point Along an Arc in MapBox](https://enzircle.com/animate-point-along-an-arc-in-mapbox)
-- [Week #45 - 2022](https://enzircle.com/week-45-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
