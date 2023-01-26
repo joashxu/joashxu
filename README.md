@@ -5,10 +5,10 @@ I am Yoas a software developer from Jakarta, Indonesia.
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
 - [Bulk Actions in Table with Django, htmx, and AlpineJS](https://enzircle.com/bulk-actions-in-table-with-django-htmx-and-alpinejs)
-- [Week #02 - 2023](https://enzircle.com/week-02-2023)
-- [Week #01 - 2023](https://enzircle.com/week-01-2023)
-- [Week #47 - 2022](https://enzircle.com/week-47-2022)
-- [Week #46 - 2022](https://enzircle.com/week-46-2022)
+- [Animate Point Along an Arc in MapBox](https://enzircle.com/animate-point-along-an-arc-in-mapbox)
+- [Socket Programming in Python](https://enzircle.com/socket-programming-in-python)
+- [Introduction to Socket Programming](https://enzircle.com/introduction-to-socket-programming)
+- [Four Thousand Weeks](https://enzircle.com/four-thousand-weeks)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
