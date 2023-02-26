@@ -4,11 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
+- [Handling Message Boundaries in Socket Programming](https://enzircle.com/handling-message-boundaries-in-socket-programming)
 - [Bulk Actions in Table with Django, htmx, and AlpineJS](https://enzircle.com/bulk-actions-in-table-with-django-htmx-and-alpinejs)
 - [Animate Point Along an Arc in MapBox](https://enzircle.com/animate-point-along-an-arc-in-mapbox)
 - [Socket Programming in Python](https://enzircle.com/socket-programming-in-python)
 - [Introduction to Socket Programming](https://enzircle.com/introduction-to-socket-programming)
-- [Four Thousand Weeks](https://enzircle.com/four-thousand-weeks)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
