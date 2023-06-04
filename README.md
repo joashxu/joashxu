@@ -4,11 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
-- [Handling Binary Data in Socket Programming](https://enzircle.com/handling-binary-data-in-socket-programming)
-- [Handling Message Boundaries in Socket Programming](https://enzircle.com/handling-message-boundaries-in-socket-programming)
-- [Bulk Actions in Table with Django, htmx, and AlpineJS](https://enzircle.com/bulk-actions-in-table-with-django-htmx-and-alpinejs)
-- [Animate Point Along an Arc in MapBox](https://enzircle.com/animate-point-along-an-arc-in-mapbox)
-- [Socket Programming in Python](https://enzircle.com/socket-programming-in-python)
+- [Handling Binary Data in Socket Programming](https://enzircle.hashnode.dev/handling-binary-data-in-socket-programming)
+- [Handling Message Boundaries in Socket Programming](https://enzircle.hashnode.dev/handling-message-boundaries-in-socket-programming)
+- [Bulk Actions in Table with Django, htmx, and AlpineJS](https://enzircle.hashnode.dev/bulk-actions-in-table-with-django-htmx-and-alpinejs)
+- [Animate Point Along an Arc in MapBox](https://enzircle.hashnode.dev/animate-point-along-an-arc-in-mapbox)
+- [Socket Programming in Python](https://enzircle.hashnode.dev/socket-programming-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
