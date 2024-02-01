@@ -4,11 +4,11 @@ I am Yoas a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Your Django Apps: Inline SVG Icons with Iconify and Tailwind](https://enzircle.hashnode.dev/enhancing-your-django-apps-inline-svg-icons-with-iconify-and-tailwind)
 - [A Beginner&#39;s Guide to Facebook Marketing API with Python](https://enzircle.hashnode.dev/a-beginners-guide-to-facebook-marketing-api-with-python)
 - [Building Your First Clickstream Analytics Dashboard: An End-to-End Guide](https://enzircle.hashnode.dev/building-your-first-clickstream-analytics-dashboard-an-end-to-end-guide)
 - [Handling Binary Data in Socket Programming](https://enzircle.hashnode.dev/handling-binary-data-in-socket-programming)
 - [Handling Message Boundaries in Socket Programming](https://enzircle.hashnode.dev/handling-message-boundaries-in-socket-programming)
-- [Bulk Actions in Table with Django, htmx, and AlpineJS](https://enzircle.hashnode.dev/bulk-actions-in-table-with-django-htmx-and-alpinejs)
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
