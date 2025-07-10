@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Yoas a software developer from Jakarta, Indonesia.
+I am Joash Xu a software developer from Jakarta, Indonesia.
 
 ## My latest article
 <!-- BLOG-POST-LIST:START -->
